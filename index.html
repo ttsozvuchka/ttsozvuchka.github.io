@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TTS Озвучка Kill4Pill</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="assets/images/icon.png" sizes="48x48">
+</head>
+
+<body>
+    <h1 class="h1c">TTS Озвучка Kill4Pill</h1>
+
+    <h2 class="h2c" >Инструкция</h2>
+    <span class="instructions">Эта страница перечисляет все голоса Text-to-Speech (TTS), доступные для использования.
+        Вы можете использовать эти голоса, используя команду !tts <voice_name>. Где <voice_name> - это название
+        голоса, которое вы хотите использовать.
+        Например, !tts b_c или !tts spongebob. Затем вставить это в чат Kill4Pill. Также вы можете нажать на
+        голос, и нужная команда скопируется, также вы можете нажать <a href="#" id="show-all-voices"
+            class="unstyled-link">сюда</a> и посмотреть список всех голосов, или старый <a
+            href="https://docs.google.com/document/d/1iddMiYoM54I-qXnFySj_3dJTcIb-nw4Avey502C_jPU/edit?usp=sharing"
+            class="unstyled-link">гайд</a></span>
+
+    <h2 class="h2c">Ударения</h2>
+    <span class="support">Так же можно боту явно указать, где поставить ударение, с помощью символа +, например: Мы
+        купили очень вкусные т+орты или все же торт+ы?</span>
+    <div class="spacer"></div>
+
+    <div id="filters">
+        <div id="search-filter-container">
+            <input type="text" id="search-input" placeholder="Поиск аудио...">
+            <div class="spacer"></div>
+        </div>
+        <!-- Пол -->
+        <div class="filter-group" id="pol">
+            <label>Пол:</label>
+            <div class="simple-filters">
+                <button class="filter-button" data-tag="men">Мужской</button>
+                <button class="filter-button" data-tag="women">Женский</button>
+                <button class="filter-button" data-tag="unknown">Непонятен</button>
+            </div>
+        </div>
+
+        <!-- Возраст -->
+        <div class="filter-group" id="vozrast">
+            <label>Возраст:</label>
+            <div class="simple-filters">
+                <button class="filter-button" data-tag="child">Детский</button>
+                <button class="filter-button" data-tag="young">Молодой</button>
+                <button class="filter-button" data-tag="adult">Взрослый</button>
+                <button class="filter-button" data-tag="old">Старый</button>
+            </div>
+        </div>
+
+        <!-- Темп -->
+        <div class="filter-group" id="temp">
+            <label>Темп:</label>
+            <div class="simple-filters">
+                <button class="filter-button" data-tag="slow">Медленный</button>
+                <button class="filter-button" data-tag="medium">Обычный</button>
+                <button class="filter-button" data-tag="fast">Быстрый</button>
+            </div>
+        </div>
+
+        <!-- Качество -->
+        <div class="filter-group" id="kachestvo">
+            <label>Качество:</label>
+            <div class="simple-filters">
+                <button class="filter-button" data-tag="shit">Дерьмо</button>
+                <button class="filter-button" data-tag="bad">Плохой</button>
+                <button class="filter-button" data-tag="normal">Обычный</button>
+                <button class="filter-button" data-tag="good">Хороший</button>
+                <button class="filter-button" data-tag="super">Супер</button>
+            </div>
+        </div>
+
+        <!-- Высота -->
+        <div class="filter-group" id="vysota">
+            <label>Высота:</label>
+            <div class="simple-filters">
+                <button class="filter-button" data-tag="verylow">Очень низкий</button>
+                <button class="filter-button" data-tag="low">Низкий</button>
+                <button class="filter-button" data-tag="simple">Обычный</button>
+                <button class="filter-button" data-tag="high">Высокий</button>
+                <button class="filter-button" data-tag="veryhigh">Очень высокий</button>
+            </div>
+        </div>
+
+        <!-- Забавность -->
+        <div class="filter-group" id="zabavnost">
+            <label>Забавность:</label>
+            <button class="filter-button" data-tag="funny">Забавный</button>
+        </div>
+
+        <!-- Игра/Фильм -->
+        <div class="filter-group" id="category">
+            <label>Игра/Фильм:</label>
+            <div id="category-buttons-container">
+                <div class="loader" id="category-loading-indicator"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="audio-list">
+        <div class="loader" id="audio-loading-indicator"></div>
+    </div>
+
+    <div id="allVoicesModal" class="modal">
+
+        <div class="modal-content">
+            <span class="close">×</span>
+            <h2>Список всех голосов</h2>
+            <div id="all-voices-list">
+            </div>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
