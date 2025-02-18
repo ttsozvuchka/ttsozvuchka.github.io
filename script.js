@@ -377,16 +377,11 @@ document.addEventListener("DOMContentLoaded", () => {
             behavior: "smooth"
         });
     }
+    
 
     var modal = document.getElementById("allVoicesModal");
 
-    var btn = document.getElementById("show-all-voices");
-
     var span = document.getElementsByClassName("close")[0];
-
-    btn.onclick = function () {
-        modal.style.display = "block";
-    }
 
     span.onclick = function () {
         modal.style.display = "none";
