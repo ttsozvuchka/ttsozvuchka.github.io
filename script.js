@@ -30,7 +30,9 @@ document.addEventListener("DOMContentLoaded", () => {
         simple: "Обычный",
         high: "Высокий",
         veryhigh: "Очень высокий",
-        funny: "Забавный"
+        funny: "Забавный",
+        hd: "HD",
+        nohd: "NOHD"
     };
 
     const categoryTranslations = {
@@ -39,16 +41,35 @@ document.addEventListener("DOMContentLoaded", () => {
         "Nashi Yaziki": "Кириллические языки",
         "KazahskiyA": "Казахский акцент",
         "Pirates of the Caribbean": "Пираты карибского моря",
-        "The Boy's Word": "Слово Пацана",
         "Other": "Другое",
-        'Metro 2033': 'Метро 2033',
-        'Zaychik': 'Зайчик'
+        "Dota 2": "Дота 2",
+        "HOTS": "Heroes of the Storm",
+        "League of Legends": "Лига Легенд",
+        "Hearthstone": "Хартстоун",
+        "Skyrim": "Скайрим",
+        "WoW": "World of Warcraft",
+        "The Witcher": "Ведьмак",
+        "Zaychik": "Зайчик",
+        "Evil Islands": "Проклятые земли",
+        "Half-Life": "Халф-Лайф",
+        "Overwatch 2": "Овервотч 2",
+        "Warcraft 3": "Варкрафт 3",
+        "Slovo": "Слово Пацана",
+        "Shrek": "Шрек",
+        "Spongebob": "Спанчбоб",
+        "Potc": "Пираты Карибского моря",
+        "Witcher": "Ведьмак",
+        "Valorant": "Валорант",
+        "Warthunder": "Вартандер",
+        "Fallout": "Фоллаут",
+        "Harrypotter": "Гарри Поттер",
+        "Transformers, robots": "Трансформеры",
+        'Metro 2033': 'Метро 2033'
     };
 
     const itemsPerPage = 30;
     let currentPage = 1;
     let searchTerm = "";
-
 
     function createPaginationButtons(totalPages, applyFilters, audioFiles, container) {
         container.innerHTML = "";
@@ -115,19 +136,22 @@ document.addEventListener("DOMContentLoaded", () => {
             for (const voice in voicesWithTagsData) {
                 tagsMap.set(voice + ".aac", {
                     tags: voicesWithTagsData[voice].tags || [],
-                    category: voicesWithTagsData[voice].category || []
+                    category: voicesWithTagsData[voice].category || [],
+                    quality: voicesWithTagsData[voice].quality || "normal"
                 });
             }
 
             audioFilesData = audioFiles.map(filename => {
                 const data = tagsMap.get(filename) || {
                     tags: [],
-                    category: []
+                    category: [],
+                    quality: "normal"
                 };
                 return {
                     filename: filename,
                     tags: data.tags,
-                    category: data.category
+                    category: data.category,
+                    quality: data.quality
                 };
             });
             audioLoadingIndicator.style.display = "none";
@@ -214,8 +238,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 audio.src = audio.dataset.src;
                 audio.addEventListener('loadedmetadata', () => {});
             }
-        };
-    }
+            };
+        }
 
     function renderPage(applyFilters, audioFiles) {
         const startIndex = (currentPage - 1) * itemsPerPage;
@@ -255,7 +279,25 @@ document.addEventListener("DOMContentLoaded", () => {
                                 groupMatch = true;
                                 break;
                             }
+                            // обработка пустых категорий
+                            if (activeValue === "Other" && (fileData.category.length === 0 || fileData.category.includes("")) ) {
+                                groupMatch = true;
+                                break;
+                            }
+                        }  else if (filterGroup === "quality-hd") {
+                            if ((activeValue === "hd" && fileData.quality === "hd") ||
+                                (activeValue === "nohd" && fileData.quality === "nohd")) {
+                                groupMatch = true;
+                                break;
+                            }
+                        } else if (filterGroup === "kachestvo") {
+                            // фильтр по качеству (без HD/NOHD)
+                            if (fileData.tags.includes(activeValue)) {
+                                groupMatch = true;
+                                break;
+                            }
                         } else {
+                            // остальные теги
                             if (fileData.tags.includes(activeValue)) {
                                 groupMatch = true;
                                 break;
@@ -315,7 +357,6 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-
     function updateFilterButtonsState() {
         const allButtons = document.querySelectorAll('.filter-button');
         allButtons.forEach(button => {
@@ -333,9 +374,14 @@ document.addEventListener("DOMContentLoaded", () => {
     function populateCategoryButtons(audioFilesData) {
         const categoryCounts = {};
         audioFilesData.forEach(fileData => {
-            fileData.category.forEach(category => {
-                categoryCounts[category] = (categoryCounts[category] || 0) + 1;
-            });
+            // если категория пустая, считаем как 'Other'
+            if (fileData.category.length === 0 || fileData.category.includes("")) {
+                categoryCounts["Other"] = (categoryCounts["Other"] || 0) + 1;
+            } else {
+                fileData.category.forEach(category => {
+                    categoryCounts[category] = (categoryCounts[category] || 0) + 1;
+                });
+            }
         });
 
         const sortedCategories = Object.entries(categoryCounts)
@@ -368,6 +414,7 @@ document.addEventListener("DOMContentLoaded", () => {
         enableFilterButtons();
         categoryLoadingIndicator.style.display = "none";
     }
+
     function scrollToTop() {
         let topOffset = topPaginationContainer.offsetTop;
         let elementHeight = topPaginationContainer.offsetHeight;
@@ -377,7 +424,6 @@ document.addEventListener("DOMContentLoaded", () => {
             behavior: "smooth"
         });
     }
-    
 
     var modal = document.getElementById("allVoicesModal");
 
@@ -400,7 +446,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const bottomPaginationContainer = document.getElementById("pagination-container") || document.createElement("div");
     bottomPaginationContainer.id = "pagination-container";
     bottomPaginationContainer.classList.add('pagination-container');
-
 
     audioListElement.parentNode.insertBefore(topPaginationContainer, audioListElement);
     audioListElement.parentNode.insertBefore(bottomPaginationContainer, audioListElement.nextSibling);
