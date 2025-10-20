@@ -425,6 +425,26 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
+    function showNewVoicesModal() {
+        const modal = document.getElementById("newVoicesModal");
+        const closeBtn = document.getElementById("closeNewVoices");
+        
+        // Show window
+        modal.style.display = "block";
+
+        // Close window by click 'x'
+        closeBtn.onclick = function() {
+            modal.style.display = "none";
+        }
+
+        // Close window by click outside
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+    }
+
     var modal = document.getElementById("allVoicesModal");
 
     var span = document.getElementsByClassName("close")[0];
@@ -449,6 +469,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
     audioListElement.parentNode.insertBefore(topPaginationContainer, audioListElement);
     audioListElement.parentNode.insertBefore(bottomPaginationContainer, audioListElement.nextSibling);
+
+    // Show modal window
+    showNewVoicesModal();
 
     initialize();
 });
