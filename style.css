@@ -241,8 +241,24 @@ h2 {
     flex: 1;
 }
 
+a {
+    color: #FFB366;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: #FFC966;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #FFB366;
+}
+
 .unstyled-link {
-    color: #3ae8ff;
+    color: #FFB366;
     text-decoration: none;
 }
 
@@ -250,7 +266,7 @@ h2 {
 .unstyled-link:focus,
 .unstyled-link:active,
 .unstyled-link:visited {
-    color: #3ae8ff;
+    color: #FFC966;
     text-decoration: none;
 }
 
