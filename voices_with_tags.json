@@ -7707,19 +7707,6 @@
         ],
         "quality": "nohd"
     },
-    "olaf_League of Legends_nohd": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "adult",
-            "good",
-            "men",
-            "simple",
-            "slow"
-        ],
-        "quality": "nohd"
-    },
     "olava_nohd": {
         "category": [
             "Skyrim"
@@ -8318,9 +8305,6 @@
         ],
         "quality": "nohd"
     },
-    "random": [
-        "Other"
-    ],
     "ranger_nohd": {
         "category": [
             "Dota 2"
@@ -11089,20 +11073,6 @@
         ],
         "quality": "nohd"
     },
-    "Warcraft 3_garrosh_nohd": {
-        "category": [
-            "Warcraft 3"
-        ],
-        "tags": [
-            "bad",
-            "funny",
-            "men",
-            "old",
-            "slow",
-            "verylow"
-        ],
-        "quality": "nohd"
-    },
     "wendy_nohd": {
         "category": [
             "Other"
@@ -11632,7 +11602,7 @@
         ],
         "quality": "nohd"
     },
-		"bandit": {
+    "bandit": {
         "category": [
             "Stalker"
         ],
@@ -11879,7 +11849,7 @@
     },
     "linzi": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "high",
@@ -11932,7 +11902,7 @@
     },
     "kate": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "women",
@@ -12054,19 +12024,6 @@
         ],
         "quality": "hd"
     },
-    "Dota 2_ShadowFiend": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "medium",
-            "bad",
-            "normal",
-            "adult",
-            "men"
-        ],
-        "quality": "hd"
-    },
     "kelthuzad": {
         "category": [
             "Warcraft3"
@@ -12081,7 +12038,7 @@
     },
     "byasha": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "child",
@@ -12343,20 +12300,6 @@
         ],
         "quality": "hd"
     },
-    "Dota 2_Enigma": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "slow",
-            "medium",
-            "funny",
-            "shit",
-            "adult",
-            "men"
-        ],
-        "quality": "hd"
-    },
     "slovo_patsana_angry_cop": {
         "category": [
             "Slovo"
@@ -12433,50 +12376,12 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_twitch": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "chen": {
         "category": [
             "Warcraft3"
         ],
         "tags": [
             "high",
-            "normal",
-            "adult",
-            "men"
-        ],
-        "quality": "hd"
-    },
-    "Dota 2_ArcWarden": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "verylow",
-            "bad",
-            "normal",
-            "adult",
-            "men"
-        ],
-        "quality": "hd"
-    },
-    "Dota 2_NyxAssassin": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "low",
-            "bad",
             "normal",
             "adult",
             "men"
@@ -12898,7 +12803,7 @@
     },
     "aventus": {
         "category": [
-            ""
+            "Skyrim"
         ],
         "tags": [
             "young",
@@ -13067,19 +12972,6 @@
             "normal",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "Dota 2_Broodmother": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "medium",
-            "old",
-            "bad",
-            "normal",
-            "women"
         ],
         "quality": "hd"
     },
@@ -13948,19 +13840,6 @@
         ],
         "quality": "hd"
     },
-    "Dota 2_Rubick": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "medium",
-            "bad",
-            "normal",
-            "adult",
-            "men"
-        ],
-        "quality": "hd"
-    },
     "pantheon": {
         "category": [
             "League of Legends"
@@ -14201,19 +14080,6 @@
         ],
         "quality": "hd"
     },
-    "Dota 2_Slark": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "medium",
-            "bad",
-            "normal",
-            "adult",
-            "men"
-        ],
-        "quality": "hd"
-    },
     "storm": {
         "category": [
             "Dota 2"
@@ -14282,19 +14148,6 @@
         ],
         "tags": [
             "medium",
-            "normal",
-            "adult",
-            "men"
-        ],
-        "quality": "hd"
-    },
-    "Dota 2_SandKing": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "low",
-            "bad",
             "normal",
             "adult",
             "men"
@@ -15505,20 +15358,6 @@
         ],
         "quality": "hd"
     },
-    "Dota 2_Lich": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "low",
-            "funny",
-            "old",
-            "normal",
-            "shit",
-            "men"
-        ],
-        "quality": "hd"
-    },
     "tracer": {
         "category": [
             "Overwatch"
@@ -15693,19 +15532,6 @@
         ],
         "quality": "hd"
     },
-    "Dota 2_Ursa": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "slow",
-            "low",
-            "bad",
-            "adult",
-            "men"
-        ],
-        "quality": "hd"
-    },
     "alduin": {
         "category": [
             "Skyrim"
@@ -15848,19 +15674,6 @@
         ],
         "tags": [
             "low",
-            "normal",
-            "adult",
-            "men"
-        ],
-        "quality": "hd"
-    },
-    "Dota 2_OutworldDestroyer": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "verylow",
-            "bad",
             "normal",
             "adult",
             "men"
@@ -16072,18 +15885,6 @@
         ],
         "tags": [
             "high",
-            "normal",
-            "adult",
-            "men"
-        ],
-        "quality": "hd"
-    },
-    "Dota 2_Necrophos": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "low",
             "normal",
             "adult",
             "men"
@@ -16367,19 +16168,6 @@
         ],
         "quality": "hd"
     },
-    "Dota 2_Razor": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "medium",
-            "bad",
-            "normal",
-            "adult",
-            "men"
-        ],
-        "quality": "hd"
-    },
     "xiao__genshin__jp": {
         "category": [
             "Genshin"
@@ -16588,19 +16376,6 @@
         ],
         "tags": [
             "medium",
-            "normal",
-            "adult",
-            "men"
-        ],
-        "quality": "hd"
-    },
-    "Dota 2_Slardar": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "low",
-            "bad",
             "normal",
             "adult",
             "men"
@@ -17184,18 +16959,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_jhin": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "IceAge3_FastTony": {
         "category": [
             "Iceage"
@@ -17229,19 +16992,6 @@
             "normal",
             "women",
             "adult"
-        ],
-        "quality": "hd"
-    },
-    "Dota 2_Clinkz": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "medium",
-            "bad",
-            "normal",
-            "adult",
-            "men"
         ],
         "quality": "hd"
     },
@@ -17358,19 +17108,6 @@
             "normal",
             "veryhigh",
             "child"
-        ],
-        "quality": "hd"
-    },
-    "Dota 2_Underlord": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "medium",
-            "bad",
-            "normal",
-            "adult",
-            "men"
         ],
         "quality": "hd"
     },
@@ -17687,18 +17424,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_aatrox": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "Cyberpunk_haru": {
         "category": [
             "Cyberpunk"
@@ -17708,18 +17433,6 @@
             "normal",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_mordekaiser": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "slow",
-            "verylow",
-            "adult"
         ],
         "quality": "hd"
     },
@@ -18594,18 +18307,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_malzahar": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "gta_vc_rudub_TreacherousSwine": {
         "category": [
             "Gta_vc"
@@ -18702,18 +18403,6 @@
             "normal",
             "funny",
             "young",
-            "men"
-        ],
-        "quality": "hd"
-    },
-    "Dota 2_CentaurWarrunner": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "verylow",
-            "normal",
-            "adult",
             "men"
         ],
         "quality": "hd"
@@ -18865,18 +18554,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_viktor": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "varian": {
         "category": [
             "Hots"
@@ -18965,18 +18642,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_zoe": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "fast",
-            "veryhigh",
-            "child"
-        ],
-        "quality": "hd"
-    },
     "kirara__genshin__jp": {
         "category": [
             "Genshin"
@@ -18986,18 +18651,6 @@
             "normal",
             "high",
             "young"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_lillia": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "veryhigh",
-            "child"
         ],
         "quality": "hd"
     },
@@ -19346,18 +18999,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_shaco": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "high",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "gta_vc_rudub_ShaftHotDogs": {
         "category": [
             "Gta_vc"
@@ -19379,18 +19020,6 @@
             "normal",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_annie": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "veryhigh",
-            "child"
         ],
         "quality": "hd"
     },
@@ -19843,18 +19472,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_veigar": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "keeper": {
         "category": [
             "Warcraft3"
@@ -19994,18 +19611,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_gwen": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "veryhigh",
-            "young"
-        ],
-        "quality": "hd"
-    },
     "Cyberpunk_regina": {
         "category": [
             "Cyberpunk"
@@ -20074,18 +19679,6 @@
         "tags": [
             "low",
             "bad",
-            "normal",
-            "adult",
-            "men"
-        ],
-        "quality": "hd"
-    },
-    "Dota 2_Disruptor": {
-        "category": [
-            "Dota 2"
-        ],
-        "tags": [
-            "medium",
             "normal",
             "adult",
             "men"
@@ -20264,18 +19857,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_yasuo": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "Cyberpunk_rogue": {
         "category": [
             "Cyberpunk"
@@ -20284,18 +19865,6 @@
             "medium",
             "normal",
             "women",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_caitlyn": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "medium",
             "adult"
         ],
         "quality": "hd"
@@ -20460,18 +20029,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_ezreal": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "high",
-            "young"
-        ],
-        "quality": "hd"
-    },
     "Cyberpunk_sobchak": {
         "category": [
             "Cyberpunk"
@@ -20619,18 +20176,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_gragas": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "m_guard": {
         "category": [
             "Skyrim"
@@ -20691,18 +20236,6 @@
             "normal",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_heimerdinger": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "veryhigh",
-            "adult"
         ],
         "quality": "hd"
     },
@@ -21010,18 +20543,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_urgot": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "Allody_merc9": {
         "category": [
             "Evilislands"
@@ -21031,18 +20552,6 @@
             "normal",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_viego": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "medium",
-            "adult"
         ],
         "quality": "hd"
     },
@@ -21068,18 +20577,6 @@
             "normal",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_seraphine": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "veryhigh",
-            "young"
         ],
         "quality": "hd"
     },
@@ -21145,18 +20642,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_thresh": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "slow",
-            "verylow",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "ebony": {
         "category": [
             "Skyrim"
@@ -21205,18 +20690,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_teemo": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "high",
-            "child"
-        ],
-        "quality": "hd"
-    },
     "Cyberpunk_hanako": {
         "category": [
             "Cyberpunk"
@@ -21260,18 +20733,6 @@
         "tags": [
             "men",
             "fast",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_morgana": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
             "medium",
             "adult"
         ],
@@ -21325,18 +20786,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_yorick": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "zarya": {
         "category": [
             "Overwatch"
@@ -21382,18 +20831,6 @@
             "normal",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_sion": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
-            "adult"
         ],
         "quality": "hd"
     },
@@ -21495,18 +20932,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_alistar": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "slow",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "KungFuPanda_Momturtle": {
         "category": [
             "Kungfu"
@@ -21592,30 +21017,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_khazix": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_lux": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "high",
-            "young"
-        ],
-        "quality": "hd"
-    },
     "demonhunter": {
         "category": [
             "Hots"
@@ -21653,18 +21054,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_nautilus": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "slow",
-            "verylow",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "tsun": {
         "category": [
             "Skyrim"
@@ -21699,18 +21088,6 @@
             "old",
             "normal",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_warwick": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
         ],
         "quality": "hd"
     },
@@ -21848,42 +21225,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_jayce": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_fiddlesticks": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "high",
-            "old"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_tahm_kench": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "toy18": {
         "category": [
             "Hots"
@@ -21943,18 +21284,6 @@
             "men",
             "normal",
             "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_nasus": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
             "adult"
         ],
         "quality": "hd"
@@ -22031,18 +21360,6 @@
             "old",
             "normal",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_amumu": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "high",
-            "child"
         ],
         "quality": "hd"
     },
@@ -22257,18 +21574,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_aphelios": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "medium",
-            "young"
-        ],
-        "quality": "hd"
-    },
     "baizhu__genshin__jp": {
         "category": [
             "Genshin"
@@ -22278,18 +21583,6 @@
             "normal",
             "young",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_xerath": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
-            "adult"
         ],
         "quality": "hd"
     },
@@ -22639,30 +21932,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_irelia": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "high",
-            "young"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_aurelion-sol": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "old"
-        ],
-        "quality": "hd"
-    },
     "edra": {
         "category": [
             "Hearthstone"
@@ -22751,18 +22020,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_jax": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "starcraft_protossexecutor": {
         "category": [
             "Starcraft"
@@ -22789,18 +22046,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_karthus": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
-            "old"
-        ],
-        "quality": "hd"
-    },
     "hogwarts_mirabel_garlick": {
         "category": [
             "Hogwarts"
@@ -22823,18 +22068,6 @@
             "bad",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_chogath": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "medium",
-            "old"
         ],
         "quality": "hd"
     },
@@ -22889,18 +22122,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_vladimir": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "starcraft_preserver": {
         "category": [
             "Starcraft"
@@ -22923,18 +22144,6 @@
             "normal",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_nidalee": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "medium",
-            "adult"
         ],
         "quality": "hd"
     },
@@ -23100,30 +22309,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_ziggs": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "veryhigh",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_leblanc": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "omnotron": {
         "category": [
             "Hearthstone"
@@ -23245,18 +22430,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_singed": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "ana": {
         "category": [
             "Overwatch"
@@ -23292,18 +22465,6 @@
             "normal",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_malphite": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
         ],
         "quality": "hd"
     },
@@ -23407,18 +22568,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_poppy": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "veryhigh",
-            "young"
-        ],
-        "quality": "hd"
-    },
     "starcraft_selendisvoid_f": {
         "category": [
             "Starcraft"
@@ -23467,18 +22616,6 @@
             "normal",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_nocturne": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "slow",
-            "verylow",
-            "adult"
         ],
         "quality": "hd"
     },
@@ -23592,18 +22729,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_kalista": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "hogwarts_matilda_weasley": {
         "category": [
             "Hogwarts"
@@ -23612,18 +22737,6 @@
             "women",
             "normal",
             "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_zed": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
             "adult"
         ],
         "quality": "hd"
@@ -23715,30 +22828,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_varus": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_akali": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "fast",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "sylas": {
         "category": [
             "League of Legends"
@@ -23749,18 +22838,6 @@
             "normal",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_wukong": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "medium",
-            "young"
         ],
         "quality": "hd"
     },
@@ -23889,18 +22966,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_lulu": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "veryhigh",
-            "child"
-        ],
-        "quality": "hd"
-    },
     "Allody_merc10": {
         "category": [
             "Evilislands"
@@ -23946,18 +23011,6 @@
             "good",
             "normal",
             "women",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_sona": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "high",
             "adult"
         ],
         "quality": "hd"
@@ -24036,18 +23089,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_ivern": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "old"
-        ],
-        "quality": "hd"
-    },
     "mechatassadar": {
         "category": [
             "Hots"
@@ -24056,30 +23097,6 @@
             "men",
             "normal",
             "low",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_miss_fortune": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "high",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_pyke": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
             "adult"
         ],
         "quality": "hd"
@@ -24141,42 +23158,6 @@
             "men",
             "normal",
             "high",
-            "young"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_zilean": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
-            "old"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_xayah": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "high",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_zeri": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "veryhigh",
             "young"
         ],
         "quality": "hd"
@@ -24292,18 +23273,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_velkoz": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "m_haughty": {
         "category": [
             "Skyrim"
@@ -24350,18 +23319,6 @@
             "normal",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_leona": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "medium",
-            "adult"
         ],
         "quality": "hd"
     },
@@ -24426,30 +23383,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_kassadin": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_diana": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "mira": {
         "category": [
             "Hots"
@@ -24458,30 +23391,6 @@
             "women",
             "normal",
             "veryhigh",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_rammus": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_belveth": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "medium",
             "adult"
         ],
         "quality": "hd"
@@ -24520,18 +23429,6 @@
             "bad",
             "normal",
             "women",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_galio": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
             "adult"
         ],
         "quality": "hd"
@@ -24583,18 +23480,6 @@
             "normal",
             "women",
             "funny"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_maokai": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "old"
         ],
         "quality": "hd"
     },
@@ -24670,30 +23555,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_rengar": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_syndra": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "Allody_merc6": {
         "category": [
             "Evilislands"
@@ -24740,30 +23601,6 @@
             "medium",
             "normal",
             "women",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_xin_zhao": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_illaoi": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "medium",
             "adult"
         ],
         "quality": "hd"
@@ -24830,18 +23667,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_kaisa": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "graves": {
         "category": [
             "League of Legends"
@@ -24851,18 +23676,6 @@
             "normal",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_soraka": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "medium",
-            "adult"
         ],
         "quality": "hd"
     },
@@ -24900,18 +23713,6 @@
             "high",
             "normal",
             "women",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_orianna": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "medium",
             "adult"
         ],
         "quality": "hd"
@@ -24965,18 +23766,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_ashe": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "high",
-            "young"
-        ],
-        "quality": "hd"
-    },
     "yrel": {
         "category": [
             "Hots"
@@ -25002,18 +23791,6 @@
         ],
         "quality": "hd"
     },
-    "olaf_League of Legends": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "medium",
-            "normal",
-            "adult",
-            "men"
-        ],
-        "quality": "hd"
-    },
     "shyvana": {
         "category": [
             "League of Legends"
@@ -25026,18 +23803,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_rell": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "high",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "taliyah": {
         "category": [
             "League of Legends"
@@ -25047,66 +23812,6 @@
             "good",
             "normal",
             "women",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_sivir": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_brand": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_lucian": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_gnar": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "veryhigh",
-            "young"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_shen": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
             "adult"
         ],
         "quality": "hd"
@@ -25132,30 +23837,6 @@
             "men",
             "slow",
             "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_master_yi": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "verylow",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_kogmaw": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "slow",
-            "verylow",
             "adult"
         ],
         "quality": "hd"
@@ -25255,18 +23936,6 @@
             "normal",
             "adult",
             "men"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_renekton": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
         ],
         "quality": "hd"
     },
@@ -25456,18 +24125,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_fiora": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "women",
-            "normal",
-            "high",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "gardensdayannouncer": {
         "category": [
             "Hots"
@@ -25531,18 +24188,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_twisted_fate": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "rastakhan": {
         "category": [
             "Hearthstone"
@@ -25601,18 +24246,6 @@
             "normal",
             "women",
             "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_kennen": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "high",
-            "young"
         ],
         "quality": "hd"
     },
@@ -25687,18 +24320,6 @@
             "slow",
             "low",
             "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_rumble": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "high",
-            "young"
         ],
         "quality": "hd"
     },
@@ -25974,18 +24595,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_jarvanIV": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "medium",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "kasa": {
         "category": [
             "Hearthstone"
@@ -26169,18 +24778,6 @@
         ],
         "quality": "hd"
     },
-    "League of Legends_skarner": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "low",
-            "adult"
-        ],
-        "quality": "hd"
-    },
     "isiset": {
         "category": [
             "Hearthstone"
@@ -26348,18 +24945,6 @@
             "veryhigh",
             "normal",
             "women",
-            "adult"
-        ],
-        "quality": "hd"
-    },
-    "League of Legends_elise": {
-        "category": [
-            "League of Legends"
-        ],
-        "tags": [
-            "men",
-            "normal",
-            "medium",
             "adult"
         ],
         "quality": "hd"
@@ -28186,7 +26771,7 @@
     },
     "ahsoka_tano+star_wars+ru": {
         "category": [
-            ""
+            "Star Wars"
         ],
         "tags": [
             "young",
@@ -28199,7 +26784,7 @@
     },
     "Assasins_Creed_AlMualim": {
         "category": [
-            ""
+            "Assassin"
         ],
         "tags": [
             "men",
@@ -28212,7 +26797,7 @@
     },
     "Assasins_Creed_Altair": {
         "category": [
-            ""
+            "Assassin"
         ],
         "tags": [
             "men",
@@ -28225,7 +26810,7 @@
     },
     "Assasins_Creed_Desmond": {
         "category": [
-            ""
+            "Assassin"
         ],
         "tags": [
             "men",
@@ -28238,7 +26823,7 @@
     },
     "Assasins_Creed_Joe": {
         "category": [
-            ""
+            "Assassin"
         ],
         "tags": [
             "men",
@@ -28251,7 +26836,7 @@
     },
     "Assasins_Creed_Lucy": {
         "category": [
-            ""
+            "Assassin"
         ],
         "tags": [
             "women",
@@ -28264,7 +26849,7 @@
     },
     "Assasins_Creed_Vito": {
         "category": [
-            ""
+            "Assassin"
         ],
         "tags": [
             "fast",
@@ -28277,7 +26862,7 @@
     },
     "AT_choose_goose": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "slow",
@@ -28290,7 +26875,7 @@
     },
     "bb_butthead": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "men",
@@ -28303,7 +26888,7 @@
     },
     "burbon+stalker_metro+ru": {
         "category": [
-            ""
+            "Stalker"
         ],
         "tags": [
             "slow",
@@ -28316,7 +26901,7 @@
     },
     "caleb_blood": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "low",
@@ -28329,7 +26914,7 @@
     },
     "cal_kestis+star_wars+ru": {
         "category": [
-            ""
+            "Star Wars"
         ],
         "tags": [
             "men",
@@ -28342,7 +26927,7 @@
     },
     "captain_america": {
         "category": [
-            ""
+            "Marvel"
         ],
         "tags": [
             "good",
@@ -28355,7 +26940,7 @@
     },
     "clones+star_wars+ru": {
         "category": [
-            ""
+            "Star Wars"
         ],
         "tags": [
             "men",
@@ -28368,7 +26953,7 @@
     },
     "cs_radio": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "men",
@@ -28381,7 +26966,7 @@
     },
     "cultist+star_wars+ru": {
         "category": [
-            ""
+            "Star Wars"
         ],
         "tags": [
             "men",
@@ -28394,7 +26979,7 @@
     },
     "Cyberpunk_johny": {
         "category": [
-            ""
+            "Cyberpunk"
         ],
         "tags": [
             "low",
@@ -28407,7 +26992,7 @@
     },
     "demoman": {
         "category": [
-            ""
+            "Tf2"
         ],
         "tags": [
             "men",
@@ -28420,7 +27005,7 @@
     },
     "disco_elysium_birds_nest_roy": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "low",
@@ -28433,7 +27018,7 @@
     },
     "disco_elysium_cuno": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "high",
@@ -28629,7 +27214,7 @@
     },
     "doom_doomguy": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "low",
@@ -28642,7 +27227,7 @@
     },
     "doom_rip_and_tear": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "low",
@@ -28656,7 +27241,7 @@
     },
     "doom_vega": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "fast",
@@ -28669,7 +27254,7 @@
     },
     "duke_nukem": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "low",
@@ -28695,7 +27280,7 @@
     },
     "eugen+stalker_metro+ru": {
         "category": [
-            ""
+            "Stalker"
         ],
         "tags": [
             "young",
@@ -28708,7 +27293,7 @@
     },
     "fallout_speaker": {
         "category": [
-            ""
+            "Fallout"
         ],
         "tags": [
             "fast",
@@ -28721,7 +27306,7 @@
     },
     "fenrig+might_and_magic+ru": {
         "category": [
-            ""
+            "Mightandmagic"
         ],
         "tags": [
             "slow",
@@ -28734,7 +27319,7 @@
     },
     "gaben_gaben": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "fast",
@@ -28761,7 +27346,7 @@
     },
     "gavrilov": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "fast",
@@ -28775,7 +27360,7 @@
     },
     "glad_valakas": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "men",
@@ -28789,7 +27374,7 @@
     },
     "gta_vc_rudub_BeefBandit": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "young",
@@ -28802,7 +27387,7 @@
     },
     "gta_vc_rudub_Dostavka": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "young",
@@ -28815,7 +27400,7 @@
     },
     "gta_vc_rudub_Fastfood": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "young",
@@ -28828,7 +27413,7 @@
     },
     "gta_vc_rudub_GlavarBaikerov": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "men",
@@ -28841,7 +27426,7 @@
     },
     "gta_vc_rudub_Gromko": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "bad",
@@ -28855,7 +27440,7 @@
     },
     "gta_vc_rudub_Mercedes": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "young",
@@ -28868,7 +27453,7 @@
     },
     "gulman": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "young",
@@ -28882,7 +27467,7 @@
     },
     "guru": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "slow",
@@ -28895,7 +27480,7 @@
     },
     "hades_alecto": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "women",
@@ -28908,7 +27493,7 @@
     },
     "hades_aphrodite": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "women",
@@ -28922,7 +27507,7 @@
     },
     "hades_ares": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "fast",
@@ -28935,7 +27520,7 @@
     },
     "hades_artemis": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "women",
@@ -28948,7 +27533,7 @@
     },
     "hades_asterius": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "fast",
@@ -28961,7 +27546,7 @@
     },
     "hades_athena": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "women",
@@ -28974,7 +27559,7 @@
     },
     "hades_demeter": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "women",
@@ -28987,7 +27572,7 @@
     },
     "hades_dionysys": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "men",
@@ -29000,7 +27585,7 @@
     },
     "hades_hades": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "low",
@@ -29013,7 +27598,7 @@
     },
     "hades_hermes": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "young",
@@ -29027,7 +27612,7 @@
     },
     "hades_hypnos": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "young",
@@ -29040,7 +27625,7 @@
     },
     "hades_megaera": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "young",
@@ -29053,7 +27638,7 @@
     },
     "hades_nyx": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "women",
@@ -29066,7 +27651,7 @@
     },
     "hades_orpheus": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "women",
@@ -29079,7 +27664,7 @@
     },
     "hades_poseidon": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "low",
@@ -29092,7 +27677,7 @@
     },
     "hades_thanatos": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "young",
@@ -29105,7 +27690,7 @@
     },
     "hades_theseus": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "young",
@@ -29118,7 +27703,7 @@
     },
     "hades_zagreus": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "men",
@@ -29131,7 +27716,7 @@
     },
     "hades_zeus": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "low",
@@ -29144,7 +27729,7 @@
     },
     "hobbit+the_lord_of_the_rings+ru": {
         "category": [
-            ""
+            "LOTR"
         ],
         "tags": [
             "young",
@@ -29157,7 +27742,7 @@
     },
     "hots_voron": {
         "category": [
-            ""
+            "HOTS"
         ],
         "tags": [
             "low",
@@ -29170,7 +27755,7 @@
     },
     "jessie": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "young",
@@ -29183,7 +27768,7 @@
     },
     "jimmy+gta_v+en": {
         "category": [
-            ""
+            "Gta_v"
         ],
         "tags": [
             "men",
@@ -29196,7 +27781,7 @@
     },
     "jimmy_(drunk)+gta_v+en": {
         "category": [
-            ""
+            "Gta_v"
         ],
         "tags": [
             "men",
@@ -29210,7 +27795,7 @@
     },
     "kha-beleth+might_and_magic+ru": {
         "category": [
-            ""
+            "Mightandmagic"
         ],
         "tags": [
             "low",
@@ -29237,7 +27822,7 @@
     },
     "kit_fisto+star_wars+ru": {
         "category": [
-            ""
+            "Star Wars"
         ],
         "tags": [
             "good",
@@ -29250,7 +27835,7 @@
     },
     "kozhaniy_ublyudok": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "men",
@@ -29264,7 +27849,7 @@
     },
     "kul_taska+star_wars+ru": {
         "category": [
-            ""
+            "Star Wars"
         ],
         "tags": [
             "low",
@@ -29277,7 +27862,7 @@
     },
     "KungFuPanda_Crane": {
         "category": [
-            ""
+            "Kungfu"
         ],
         "tags": [
             "men",
@@ -29290,7 +27875,7 @@
     },
     "KungFuPanda_Crocodiles": {
         "category": [
-            ""
+            "Kungfu"
         ],
         "tags": [
             "men",
@@ -29303,7 +27888,7 @@
     },
     "KungFuPanda_Hogs": {
         "category": [
-            ""
+            "Kungfu"
         ],
         "tags": [
             "men",
@@ -29316,7 +27901,7 @@
     },
     "KungFuPanda_Monkey": {
         "category": [
-            ""
+            "Kungfu"
         ],
         "tags": [
             "men",
@@ -29330,7 +27915,7 @@
     },
     "KungFuPanda_MrPing": {
         "category": [
-            ""
+            "Kungfu"
         ],
         "tags": [
             "men",
@@ -29343,7 +27928,7 @@
     },
     "KungFuPanda_Oogway": {
         "category": [
-            ""
+            "Kungfu"
         ],
         "tags": [
             "men",
@@ -29356,7 +27941,7 @@
     },
     "KungFuPanda_Ox": {
         "category": [
-            ""
+            "Kungfu"
         ],
         "tags": [
             "men",
@@ -29369,7 +27954,7 @@
     },
     "KungFuPanda_Pigs": {
         "category": [
-            ""
+            "Kungfu"
         ],
         "tags": [
             "men",
@@ -29382,7 +27967,7 @@
     },
     "KungFuPanda_Po": {
         "category": [
-            ""
+            "Kungfu"
         ],
         "tags": [
             "young",
@@ -29395,7 +27980,7 @@
     },
     "KungFuPanda_Shifu": {
         "category": [
-            ""
+            "Kungfu"
         ],
         "tags": [
             "low",
@@ -29408,7 +27993,7 @@
     },
     "KungFuPanda_Tigress": {
         "category": [
-            ""
+            "Kungfu"
         ],
         "tags": [
             "women",
@@ -29421,7 +28006,7 @@
     },
     "KungFuPanda_Viper": {
         "category": [
-            ""
+            "Kungfu"
         ],
         "tags": [
             "young",
@@ -29434,7 +28019,7 @@
     },
     "KungFuPanda_WuSisters": {
         "category": [
-            ""
+            "Kungfu"
         ],
         "tags": [
             "high",
@@ -29448,7 +28033,7 @@
     },
     "lamar+gta_v+en": {
         "category": [
-            ""
+            "Gta_v"
         ],
         "tags": [
             "men",
@@ -29461,7 +28046,7 @@
     },
     "lamar_(drunk)+gta_v+en": {
         "category": [
-            ""
+            "Gta_v"
         ],
         "tags": [
             "men",
@@ -29474,7 +28059,7 @@
     },
     "lenin": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "bad",
@@ -29488,7 +28073,7 @@
     },
     "lich+might_and_magic+ru": {
         "category": [
-            ""
+            "Mightandmagic"
         ],
         "tags": [
             "low",
@@ -29502,7 +28087,7 @@
     },
     "luke_skywalker_(battlefront)+star_wars+ru": {
         "category": [
-            ""
+            "Star Wars"
         ],
         "tags": [
             "young",
@@ -29515,7 +28100,7 @@
     },
     "mace_windu+star_wars+ru": {
         "category": [
-            ""
+            "Star Wars"
         ],
         "tags": [
             "good",
@@ -29528,7 +28113,7 @@
     },
     "Mafia_Leo": {
         "category": [
-            ""
+            "Mafia"
         ],
         "tags": [
             "men",
@@ -29541,7 +28126,7 @@
     },
     "masterskaya_nastroeniya": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "good",
@@ -29554,7 +28139,7 @@
     },
     "maude+gta_v+en": {
         "category": [
-            ""
+            "Gta_v"
         ],
         "tags": [
             "high",
@@ -29567,7 +28152,7 @@
     },
     "melnik+stalker_metro+ru": {
         "category": [
-            ""
+            "Stalker"
         ],
         "tags": [
             "men",
@@ -29580,7 +28165,7 @@
     },
     "mercenary+star_wars+ru": {
         "category": [
-            ""
+            "Star Wars"
         ],
         "tags": [
             "men",
@@ -29593,7 +28178,7 @@
     },
     "michael+gta_v+en": {
         "category": [
-            ""
+            "Gta_v"
         ],
         "tags": [
             "men",
@@ -29606,7 +28191,7 @@
     },
     "michael_(drunk)+gta_v+en": {
         "category": [
-            ""
+            "Gta_v"
         ],
         "tags": [
             "men",
@@ -29671,7 +28256,7 @@
     },
     "mmetro_female": {
         "category": [
-            ""
+            "Metro 2033"
         ],
         "tags": [
             "women",
@@ -29684,7 +28269,7 @@
     },
     "mmetro_male": {
         "category": [
-            ""
+            "Metro 2033"
         ],
         "tags": [
             "men",
@@ -29697,7 +28282,7 @@
     },
     "mon_mothma+star_wars+ru": {
         "category": [
-            ""
+            "Star Wars"
         ],
         "tags": [
             "women",
@@ -29710,7 +28295,7 @@
     },
     "Mor_Utopia_Changeling": {
         "category": [
-            ""
+            "Mor"
         ],
         "tags": [
             "young",
@@ -29723,7 +28308,7 @@
     },
     "necroguard+might_and_magic+ru": {
         "category": [
-            ""
+            "Mightandmagic"
         ],
         "tags": [
             "bad",
@@ -29736,14 +28321,14 @@
     },
     "necromancer+might_and_magic+ru": {
         "category": [
-            ""
+            "Mightandmagic"
         ],
         "tags": [],
         "quality": "hd"
     },
     "nicholas_fury+marvel+ru": {
         "category": [
-            ""
+            "Marvel"
         ],
         "tags": [
             "good",
@@ -29756,7 +28341,7 @@
     },
     "oblivion_fan_ru": {
         "category": [
-            ""
+            "Oblivion"
         ],
         "tags": [
             "men",
@@ -29769,7 +28354,7 @@
     },
     "oblivion_khajiit_ru": {
         "category": [
-            ""
+            "Oblivion"
         ],
         "tags": [
             "men",
@@ -29782,7 +28367,7 @@
     },
     "oblivion_scum_ru": {
         "category": [
-            ""
+            "Oblivion"
         ],
         "tags": [
             "men",
@@ -29795,7 +28380,7 @@
     },
     "ogomk_alyona": {
         "category": [
-            ""
+            "Ogomk"
         ],
         "tags": [
             "women",
@@ -29821,7 +28406,7 @@
     },
     "OpenSeason_Boog": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "men",
@@ -29834,7 +28419,7 @@
     },
     "OpenSeason_Elliot": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "young",
@@ -29848,7 +28433,7 @@
     },
     "ozara": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "low",
@@ -29862,7 +28447,7 @@
     },
     "padme_amidala+star_wars+ru": {
         "category": [
-            ""
+            "Star Wars"
         ],
         "tags": [
             "women",
@@ -29875,7 +28460,7 @@
     },
     "peppa_narrator": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "good",
@@ -29888,7 +28473,7 @@
     },
     "plo_koon+star_wars+ru": {
         "category": [
-            ""
+            "Star Wars"
         ],
         "tags": [
             "low",
@@ -29901,7 +28486,7 @@
     },
     "protocol_droid+star_wars+ru": {
         "category": [
-            ""
+            "Star Wars"
         ],
         "tags": [
             "men",
@@ -29914,7 +28499,7 @@
     },
     "rebel+star_wars+ru": {
         "category": [
-            ""
+            "Star Wars"
         ],
         "tags": [
             "men",
@@ -29927,7 +28512,7 @@
     },
     "rick_and_morty_Morty": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "young",
@@ -29940,7 +28525,7 @@
     },
     "rick_and_morty_Rick": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "fast",
@@ -29966,7 +28551,7 @@
     },
     "SBSP_spongebob_en": {
         "category": [
-            ""
+            "Spongebob"
         ],
         "tags": [
             "young",
@@ -29979,7 +28564,7 @@
     },
     "skala_ref": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "men",
@@ -30045,7 +28630,7 @@
     },
     "sniper_tf": {
         "category": [
-            ""
+            "Tf2"
         ],
         "tags": [
             "men",
@@ -30058,7 +28643,7 @@
     },
     "sorvigolova": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "men",
@@ -30071,7 +28656,7 @@
     },
     "spacemarine": {
         "category": [
-            ""
+            "Warhammer 40000"
         ],
         "tags": [
             "men",
@@ -30084,7 +28669,7 @@
     },
     "spiderman_maguire": {
         "category": [
-            ""
+            "Marvel"
         ],
         "tags": [
             "young",
@@ -30097,7 +28682,7 @@
     },
     "Stalcraft_Bandit": {
         "category": [
-            ""
+            "Stalcraft"
         ],
         "tags": [
             "men",
@@ -30110,7 +28695,7 @@
     },
     "Stalcraft_Stalker": {
         "category": [
-            ""
+            "Stalcraft"
         ],
         "tags": [
             "young",
@@ -30123,14 +28708,14 @@
     },
     "stalin": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [],
         "quality": "hd"
     },
     "stronghold_clerk": {
         "category": [
-            ""
+            "Stronghold"
         ],
         "tags": [
             "young",
@@ -30143,7 +28728,7 @@
     },
     "superman_cavill": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "good",
@@ -30156,7 +28741,7 @@
     },
     "thor_ref": {
         "category": [
-            ""
+            "Marvel"
         ],
         "tags": [
             "men",
@@ -30182,7 +28767,7 @@
     },
     "twilight__pony__en": {
         "category": [
-            ""
+            "Pony"
         ],
         "tags": [
             "young",
@@ -30196,7 +28781,7 @@
     },
     "ultrakill_gabriel": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "low",
@@ -30222,7 +28807,7 @@
     },
     "vkir__redalert__en": {
         "category": [
-            ""
+            "Redalert"
         ],
         "tags": [
             "men",
@@ -30235,7 +28820,7 @@
     },
     "volodarskiy": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "bad",
@@ -30249,7 +28834,7 @@
     },
     "WoT_WoT": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "men",
@@ -30261,22 +28846,9 @@
         ],
         "quality": "hd"
     },
-    "WoW_Illidan": {
-        "category": [
-            "WoW"
-        ],
-        "tags": [
-            "low",
-            "slow",
-            "men",
-            "adult",
-            "normal"
-        ],
-        "quality": "hd"
-    },
     "ycf": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "super",
@@ -30290,7 +28862,7 @@
     },
     "Youtube_potapenko": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "low",
@@ -30303,7 +28875,7 @@
     },
     "zana+might_and_magic+ru": {
         "category": [
-            ""
+            "Mightandmagic"
         ],
         "tags": [
             "women",
@@ -30316,7 +28888,7 @@
     },
     "goblin1+might_and_magic+ru": {
         "category": [
-            ""
+            "Mightandmagic"
         ],
         "tags": [
             "bad",
@@ -30341,23 +28913,9 @@
         ],
         "quality": "hd"
     },
-    "Dota 2_ragnaros": {
-        "category": [
-            ""
-        ],
-        "tags": [
-            "low",
-            "bad",
-            "men",
-            "adult",
-            "medium",
-            "funny"
-        ],
-        "quality": "hd"
-    },
     "goblin2+might_and_magic+ru": {
         "category": [
-            ""
+            "Mightandmagic"
         ],
         "tags": [
             "slow",
@@ -30370,7 +28928,7 @@
     },
     "Madagascar2_Makunga": {
         "category": [
-            ""
+            "Madagascar"
         ],
         "tags": [
             "men",
@@ -30383,7 +28941,7 @@
     },
     "Madagascar2_Maurice": {
         "category": [
-            ""
+            "Madagascar"
         ],
         "tags": [
             "men",
@@ -30396,7 +28954,7 @@
     },
     "Madagascar2_m_KingJulien": {
         "category": [
-            ""
+            "Madagascar"
         ],
         "tags": [
             "young",
@@ -30409,7 +28967,7 @@
     },
     "Madagascar2_p_Kowalski": {
         "category": [
-            ""
+            "Madagascar"
         ],
         "tags": [
             "men",
@@ -30422,7 +28980,7 @@
     },
     "Madagascar2_p_Private": {
         "category": [
-            ""
+            "Madagascar"
         ],
         "tags": [
             "young",
@@ -30435,7 +28993,7 @@
     },
     "Madagascar2_p_Skipper": {
         "category": [
-            ""
+            "Madagascar"
         ],
         "tags": [
             "fast",
@@ -30448,7 +29006,7 @@
     },
     "Madagascar2_Zuba": {
         "category": [
-            ""
+            "Madagascar"
         ],
         "tags": [
             "men",
@@ -30461,7 +29019,7 @@
     },
     "portal2_space": {
         "category": [
-            ""
+            "Portal"
         ],
         "tags": [
             "young",
@@ -30475,7 +29033,7 @@
     },
     "SeriousSam_SeriousSam2": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "low",
@@ -30501,7 +29059,7 @@
     },
     "stalker02+stalker_metro+ru": {
         "category": [
-            ""
+            "Stalker"
         ],
         "tags": [
             "good",
@@ -30527,7 +29085,7 @@
     },
     "wc2_death_knight": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "low",
@@ -30540,7 +29098,7 @@
     },
     "wc2_human": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "men",
@@ -30553,7 +29111,7 @@
     },
     "wc2_ogre": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "men",
@@ -30566,7 +29124,7 @@
     },
     "wc2_orc_en": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "fast",
@@ -30579,7 +29137,7 @@
     },
     "wc2_orc_ru": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "men",
@@ -30592,7 +29150,7 @@
     },
     "wc2_peon": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "bad",
@@ -30606,7 +29164,7 @@
     },
     "gow3_kratos": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "men",
@@ -30619,7 +29177,7 @@
     },
     "IceAge3_Ellie": {
         "category": [
-            ""
+            "Iceage"
         ],
         "tags": [
             "high",
@@ -30632,7 +29190,7 @@
     },
     "IceAge3_Manny": {
         "category": [
-            ""
+            "Iceage"
         ],
         "tags": [
             "good",
@@ -30645,7 +29203,7 @@
     },
     "IceAge3_Sid": {
         "category": [
-            ""
+            "Iceage"
         ],
         "tags": [
             "high",
@@ -30685,7 +29243,7 @@
     },
     "wc3_vurdalak": {
         "category": [
-            ""
+            "Warcraft 3"
         ],
         "tags": [
             "low",
@@ -30699,7 +29257,7 @@
     },
     "gow4_kratos": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "good",
@@ -30725,7 +29283,7 @@
     },
     "ut4_announcerFemale": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "women",
@@ -31051,7 +29609,7 @@
     },
     "SeriousSam_SeriousSamFE2001": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "good",
@@ -31064,7 +29622,7 @@
     },
     "aggressive_adidas": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "medium",
@@ -31077,7 +29635,7 @@
     },
     "audiobooks_summary": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "medium",
@@ -31090,7 +29648,7 @@
     },
     "Doofenshmirtz_Fufelshmertz": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "fast",
@@ -31103,7 +29661,7 @@
     },
     "en_Narrator": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "medium",
@@ -31117,7 +29675,7 @@
     },
     "en_Orin": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "slow",
@@ -31169,7 +29727,7 @@
     },
     "gta_vc_rudub_Главарь байкеров": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31182,7 +29740,7 @@
     },
     "gta_vc_rudub_Голос из громкоговорителя на стадионе Hotring": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31196,7 +29754,7 @@
     },
     "gta_vc_rudub_Диаз": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31209,7 +29767,7 @@
     },
     "gta_vc_rudub_Доставка пиццы": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31222,7 +29780,7 @@
     },
     "gta_vc_rudub_Забегаловка Beef Bandit": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31236,7 +29794,7 @@
     },
     "gta_vc_rudub_Забегаловка Cheezy Crust": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31249,7 +29807,7 @@
     },
     "gta_vc_rudub_Забегаловка Shaft Hot Dogs": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31262,7 +29820,7 @@
     },
     "gta_vc_rudub_Кэм Джоунс": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31275,7 +29833,7 @@
     },
     "gta_vc_rudub_Ленс": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31288,7 +29846,7 @@
     },
     "gta_vc_rudub_Мерседес": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31301,7 +29859,7 @@
     },
     "gta_vc_rudub_Работник бургеной": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31315,7 +29873,7 @@
     },
     "gta_vc_rudub_Работник общепита": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31329,7 +29887,7 @@
     },
     "gta_vc_rudub_Сонни": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31343,7 +29901,7 @@
     },
     "gta_vc_rudub_Стриптизёрша": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31358,7 +29916,7 @@
     },
     "gta_vc_rudub_Томми": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31371,7 +29929,7 @@
     },
     "gta_vc_rudub_Фил": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31384,7 +29942,7 @@
     },
     "pinkie__pony__en": {
         "category": [
-            ""
+            "Pony"
         ],
         "tags": [
             "slow",
@@ -31399,7 +29957,7 @@
     },
     "rarity__pony__en": {
         "category": [
-            ""
+            "Pony"
         ],
         "tags": [
             "slow",
@@ -31479,7 +30037,7 @@
     },
     "trixie__pony__en": {
         "category": [
-            ""
+            "Pony"
         ],
         "tags": [
             "medium",
@@ -31493,7 +30051,7 @@
     },
     "_Пэйган Мин": {
         "category": [
-            ""
+            "Far Cry"
         ],
         "tags": [
             "medium",
@@ -31507,7 +30065,7 @@
     },
     "_фуфелшмерц": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "fast",
@@ -31533,7 +30091,7 @@
     },
     "gta_vc_rudub_Работник стройки 1": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31559,7 +30117,7 @@
     },
     "GTA_SA_families 2": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "medium",
@@ -31572,7 +30130,7 @@
     },
     "gta_vc_rudub_Работник стройки 2": {
         "category": [
-            ""
+            "Gta_vc"
         ],
         "tags": [
             "medium",
@@ -31626,7 +30184,7 @@
     },
     "GTA_SA_families 3": {
         "category": [
-            ""
+            "Other"
         ],
         "tags": [
             "medium",
@@ -32102,6 +30660,4059 @@
             "shit",
             "funny",
             "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "Hearthstone_a_f_kay": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_ahune": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_alda_petrik": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_arthas": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_atramedes": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_aya_blackpaw": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_azari": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_barkeye": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_battrund": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_bazhial": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_blackseed": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_brimstone_warden": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_bristlesnarl": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_brushwood_centurion": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_captain_shivers": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_colossus_of_the_sun": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_coren_direbrew": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_cragtorr": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_craz": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_crystalsmith_kangor": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_cutthroat_willie": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_cyanigosa": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_darkness": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_dazzik": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_dazzik_hellscream": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_deathwing": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_demolisher_3v_11": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_dr_morrigan": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_earthrager_ptah": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_elder_brandlemar": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_electra_stormsurge": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_emperor_thaurissan": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_ermavar": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_face_collector": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_galakrond": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_galakrond_the_unbreakable": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_garrosh": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_garrow_the_rancorous": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_general_husam": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_glinda_crowskin": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_gnarlroot": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_gold_elemental": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_gothik_the_harvester": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_grimstone": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_groddo_the_bogwarden": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_grum": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_gutmook": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_headless_horseman": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_high_prophet_barim": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_icarax_plague_lord_of_wrath": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_ichabod_the_cursed": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_ichoron": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_illhoof": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_illidan": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_infinite_toki": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_inquisitor_havnixx": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_jaina": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_janak": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_jeeru": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_jepetto_joybuzz": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_kasmut": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_kaye_toogie": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_kelthuzad": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_kham": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_kraxx": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_kriziki": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_kzrath_plague_lord_of_madness": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_loea09": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_loea15": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_lord_godfrey": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_lyris_the_wild_mage": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_madame_lazul": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_majordomo_executus": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_mama_diggs": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_marrowgar": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_mechajaraxxus": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_medivh": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_millificent_manastorm": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_moragg": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_mushhuckster_max": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_nefarian": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_nemsy_necrofizzle": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_noz_timbertale": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_nozari": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_nzoth": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_pillager_drasar": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_raeth_ghostsong": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_rafaam": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_ragnaros": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_rajh": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_rakanishu": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_ravencaller_cozzlewurt": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_rend_blackhand": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_runaway_ruby": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_russel_the_bard": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_saelorn": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_sazin": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_scabbs": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_seriona": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_setesh": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_shade_of_aran": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_shalja": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_sindragosa": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_sir_annoyo": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_sirinell": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_snakeflinger_scalesnout": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_sotis": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_spiritspeaker_azun": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_stormy": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_sylvanas": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_terraviss": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_test_subject": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_thaddock_the_thief": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_thekal": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_thrall": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_thudd_lockspring": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_tipsi_wobblerune": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_toki_time_tinker": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_torsion": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_ungan_oddkind": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_uther": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_vasno": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_vesh_plague_lord_of_murlocs": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_vessina": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_victor_nefarius": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_voodoomaster_vex": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_vustrasz_the_ancient": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_waxmancer_sturmi": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_winslow_tobtock": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_xatma_plague_lord_of_death": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_xol_the_unscathed": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_zafarr": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_zaraam": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_zerek_master_cloner": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hearthstone_zuramat_the_obliterator": {
+        "category": [
+            "Hearthstone"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_alexstrasza": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_amazon": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_anubarak": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_anubarakcybarak": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_artanis": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_arthas": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_auriel": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_azmodan": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_baleog": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_blaze": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_brightwing": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_chen": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_cho": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_deathwing": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_dehaka": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_diablo": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_dragonknight": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_dryad": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_falstad": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_fenix": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_gardensnightannouncer": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_garrosh": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_gazlowe": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_guldan": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_hogger": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_illidan": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_imperius": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_infestedtychus": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_jaina": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_kaelthas": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_kelthuzad": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_leoric": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_lichking": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_lili": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_maiev": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_malganis": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_malthael": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_medic": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_medivh": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_meiow": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_mephisto": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_monk": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_muradin": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_nova": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_ragnaros": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_ravenlord": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_raynor": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_rexxar": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_siegetank": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_stitches": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_stukov": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_sylvanas": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_tassadar": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_thrall": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_tychus": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_tyrande": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_uther": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_wizard": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_zagara": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "Hots_zeratul": {
+        "category": [
+            "HOTS"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "LoL_aatrox": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_akali": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "fast",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_alistar": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "slow",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_amumu": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "high",
+            "child"
+        ],
+        "quality": "hd"
+    },
+    "LoL_annie": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "veryhigh",
+            "child"
+        ],
+        "quality": "hd"
+    },
+    "LoL_aphelios": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "medium",
+            "young"
+        ],
+        "quality": "hd"
+    },
+    "LoL_ashe": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "high",
+            "young"
+        ],
+        "quality": "hd"
+    },
+    "LoL_aurelion-sol": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "old"
+        ],
+        "quality": "hd"
+    },
+    "LoL_belveth": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_brand": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_caitlyn": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_chogath": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "medium",
+            "old"
+        ],
+        "quality": "hd"
+    },
+    "LoL_diana": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_elise": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_ezreal": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "high",
+            "young"
+        ],
+        "quality": "hd"
+    },
+    "LoL_fiddlesticks": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "high",
+            "old"
+        ],
+        "quality": "hd"
+    },
+    "LoL_fiora": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "high",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_galio": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_gnar": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "veryhigh",
+            "young"
+        ],
+        "quality": "hd"
+    },
+    "LoL_gragas": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_gwen": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "veryhigh",
+            "young"
+        ],
+        "quality": "hd"
+    },
+    "LoL_heimerdinger": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "veryhigh",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_illaoi": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_irelia": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "high",
+            "young"
+        ],
+        "quality": "hd"
+    },
+    "LoL_ivern": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "old"
+        ],
+        "quality": "hd"
+    },
+    "LoL_jarvanIV": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_jax": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_jayce": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_jhin": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_kaisa": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_kalista": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_karthus": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "old"
+        ],
+        "quality": "hd"
+    },
+    "LoL_kassadin": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_kennen": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "high",
+            "young"
+        ],
+        "quality": "hd"
+    },
+    "LoL_khazix": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_kogmaw": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "slow",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_leblanc": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_leona": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_lillia": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "veryhigh",
+            "child"
+        ],
+        "quality": "hd"
+    },
+    "LoL_lucian": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_lulu": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "veryhigh",
+            "child"
+        ],
+        "quality": "hd"
+    },
+    "LoL_lux": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "high",
+            "young"
+        ],
+        "quality": "hd"
+    },
+    "LoL_malphite": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_malzahar": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_maokai": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "old"
+        ],
+        "quality": "hd"
+    },
+    "LoL_master_yi": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_miss_fortune": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "high",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_mordekaiser": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "slow",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_morgana": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_nasus": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_nautilus": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "slow",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_nidalee": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_nocturne": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "slow",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_orianna": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_poppy": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "veryhigh",
+            "young"
+        ],
+        "quality": "hd"
+    },
+    "LoL_pyke": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_rammus": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_rell": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "high",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_renekton": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_rengar": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_rumble": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "high",
+            "young"
+        ],
+        "quality": "hd"
+    },
+    "LoL_seraphine": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "veryhigh",
+            "young"
+        ],
+        "quality": "hd"
+    },
+    "LoL_shaco": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "high",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_shen": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_singed": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_sion": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_sivir": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_skarner": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_sona": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "high",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_soraka": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_syndra": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_tahm_kench": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_teemo": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "high",
+            "child"
+        ],
+        "quality": "hd"
+    },
+    "LoL_thresh": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "slow",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_twisted_fate": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_twitch": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_urgot": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_varus": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_veigar": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_velkoz": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_viego": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "medium",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_viktor": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_vladimir": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_warwick": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_wukong": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "medium",
+            "young"
+        ],
+        "quality": "hd"
+    },
+    "LoL_xayah": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "high",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_xerath": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_xin_zhao": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_yasuo": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_yorick": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_zed": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "low",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_zeri": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "normal",
+            "veryhigh",
+            "young"
+        ],
+        "quality": "hd"
+    },
+    "LoL_ziggs": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "veryhigh",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "LoL_zilean": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "men",
+            "normal",
+            "verylow",
+            "old"
+        ],
+        "quality": "hd"
+    },
+    "LoL_zoe": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "women",
+            "fast",
+            "veryhigh",
+            "child"
+        ],
+        "quality": "hd"
+    },
+    "dota2_ArcWarden": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "verylow",
+            "bad",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_Broodmother": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "medium",
+            "old",
+            "bad",
+            "normal",
+            "women"
+        ],
+        "quality": "hd"
+    },
+    "dota2_CentaurWarrunner": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "verylow",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_Clinkz": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "medium",
+            "bad",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_Disruptor": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_Enigma": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "slow",
+            "medium",
+            "funny",
+            "shit",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_Lich": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "low",
+            "funny",
+            "old",
+            "normal",
+            "shit",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_Necrophos": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "low",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_NyxAssassin": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "low",
+            "bad",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_OutworldDestroyer": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "verylow",
+            "bad",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_Razor": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "medium",
+            "bad",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_Rubick": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "medium",
+            "bad",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_SandKing": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "low",
+            "bad",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_ShadowFiend": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "medium",
+            "bad",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_Slardar": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "low",
+            "bad",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_Slark": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "medium",
+            "bad",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_Underlord": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "medium",
+            "bad",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_Ursa": {
+        "category": [
+            "Dota2"
+        ],
+        "tags": [
+            "slow",
+            "low",
+            "bad",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dota2_ragnaros": {
+        "category": [
+            "Dota 2"
+        ],
+        "tags": [
+            "low",
+            "bad",
+            "men",
+            "adult",
+            "medium",
+            "funny"
+        ],
+        "quality": "hd"
+    },
+    "homelander2": {
+        "category": [
+            "Other"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "ilia": {
+        "category": [
+            "Other"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "max_default": {
+        "category": [
+            "Other"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "miside": {
+        "category": [
+            "Miside"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "olaf_lol": {
+        "category": [
+            "Lol"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "olaf_lol_nohd": {
+        "category": [
+            "League of Legends"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "warcraft_garrosh_nohd": {
+        "category": [
+            "Warcraft 3"
+        ],
+        "tags": [],
+        "quality": "hd"
+    },
+    "wow_Illidan": {
+        "category": [
+            "WoW"
+        ],
+        "tags": [
+            "low",
+            "slow",
+            "men",
+            "adult",
+            "normal"
+        ],
+        "quality": "hd"
+    },
+    "anton_chigurh": {
+        "category": [
+            "No Country for Old Men",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "adult",
+            "low",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "assist_afina": {
+        "category": [
+            "Other",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "simple",
+            "women",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "assist_alisa_call": {
+        "category": [
+            "Other",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "simple",
+            "women",
+            "adult"
+        ],
+        "quality": "hd"
+    },
+    "assist_ciri": {
+        "category": [
+            "The Witcher",
+            "Новые"
+        ],
+        "tags": [
+            "normal",
+            "high",
+            "women",
+            "young",
+            "fast"
+        ],
+        "quality": "hd"
+    },
+    "assist_joy": {
+        "category": [
+            "Inside Out",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "women",
+            "adult",
+            "high"
+        ],
+        "quality": "hd"
+    },
+    "buba": {
+        "category": [
+            "Buba",
+            "Новые"
+        ],
+        "tags": [
+            "high",
+            "funny",
+            "young",
+            "bad",
+            "fast",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "cats_dad": {
+        "category": [
+            "Three Cats",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "adult",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "cats_karamel": {
+        "category": [
+            "Three Cats",
+            "Новые"
+        ],
+        "tags": [
+            "veryhigh",
+            "medium",
+            "normal",
+            "unknown",
+            "child"
+        ],
+        "quality": "hd"
+    },
+    "cats_kompot": {
+        "category": [
+            "Three Cats",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "simple",
+            "child",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "cats_korzhik": {
+        "category": [
+            "Three Cats",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "unknown",
+            "child",
+            "bad",
+            "high"
+        ],
+        "quality": "hd"
+    },
+    "cats_mom": {
+        "category": [
+            "Three Cats",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "women",
+            "young",
+            "high"
+        ],
+        "quality": "hd"
+    },
+    "cats_narrator": {
+        "category": [
+            "Three Cats",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "adult",
+            "men",
+            "super"
+        ],
+        "quality": "hd"
+    },
+    "dikiy_ogurets": {
+        "category": [
+            "Other"
+        ],
+        "tags": [
+            "medium",
+            "adult",
+            "low",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dmc5_dante": {
+        "category": [
+            "Devil May Cry",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "adult",
+            "bad",
+            "high",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "dmc5_vergil": {
+        "category": [
+            "Devil May Cry",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "adult",
+            "men",
+            "good",
+            "funny"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_adam": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "adult",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_asmr_f": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "women",
+            "adult",
+            "low",
+            "slow",
+            "funny",
+            "super"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_bill": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "adult",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_catgirl": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "simple",
+            "women",
+            "funny",
+            "slow",
+            "young",
+            "super"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_clyde": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "low",
+            "young",
+            "men",
+            "super"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_ded": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "adult",
+            "low",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_demon": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "funny",
+            "adult",
+            "low",
+            "bad",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_dictor1": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "adult",
+            "low",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_finn": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "funny",
+            "low",
+            "young",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_gigi": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "veryhigh",
+            "medium",
+            "normal",
+            "women",
+            "young"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_gopnik2": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "simple",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_jessica": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "women",
+            "young",
+            "good",
+            "funny"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_loli": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "women",
+            "funny",
+            "young",
+            "super"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_mimi": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "women",
+            "young",
+            "good",
+            "high",
+            "funny"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_m_asmr": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "normal",
+            "adult",
+            "low",
+            "men",
+            "slow",
+            "funny"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_paul": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "adult",
+            "low",
+            "men",
+            "super"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_rachel": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "women",
+            "young",
+            "good",
+            "high"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_radio": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "women",
+            "adult",
+            "low",
+            "super"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_roger": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "adult",
+            "low",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_sarah": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "women",
+            "adult",
+            "good"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_sexy1": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "women",
+            "low",
+            "slow",
+            "young",
+            "funny",
+            "super"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_sexy2": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "women",
+            "adult",
+            "low",
+            "slow",
+            "good",
+            "funny"
+        ],
+        "quality": "hd"
+    },
+    "elevenlabs_soft_female": {
+        "category": [
+            "ElevenLabs",
+            "Новые"
+        ],
+        "tags": [
+            "simple",
+            "women",
+            "slow",
+            "good",
+            "old"
+        ],
+        "quality": "hd"
+    },
+    "eva_elfie": {
+        "category": [
+            "Other",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "women",
+            "young",
+            "bad"
+        ],
+        "quality": "hd"
+    },
+    "gagarin": {
+        "category": [
+            "Other",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "simple",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "geegurda": {
+        "category": [
+            "Other",
+            "Новые"
+        ],
+        "tags": [
+            "low",
+            "slow",
+            "good",
+            "old",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "hollow_knight_hornet": {
+        "category": [
+            "Hollow Knight"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "women",
+            "adult",
+            "bad"
+        ],
+        "quality": "hd"
+    },
+    "incredibles_fialka": {
+        "category": [
+            "The Incredibles"
+        ],
+        "tags": [
+            "medium",
+            "women",
+            "child",
+            "good",
+            "high"
+        ],
+        "quality": "hd"
+    },
+    "incredibles_freon": {
+        "category": [
+            "The Incredibles"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "simple",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "incredibles_mr": {
+        "category": [
+            "The Incredibles"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "adult",
+            "low",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "incredibles_mrs": {
+        "category": [
+            "The Incredibles"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "unknown",
+            "child",
+            "high"
+        ],
+        "quality": "hd"
+    },
+    "incredibles_shastik": {
+        "category": [
+            "The Incredibles"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "unknown",
+            "child",
+            "high"
+        ],
+        "quality": "hd"
+    },
+    "luntik_pupsen": {
+        "category": [
+            "Luntik",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "young",
+            "high",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "luntik_vupsen": {
+        "category": [
+            "Luntik",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "adult",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "mk_announcer": {
+        "category": [
+            "Mortal Kombat",
+            "Новые"
+        ],
+        "tags": [
+            "normal",
+            "adult",
+            "men",
+            "slow",
+            "low",
+            "funny"
+        ],
+        "quality": "hd"
+    },
+    "p_rst_chel": {
+        "category": [
+            "PDRST",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "simple",
+            "young",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "p_rst_gnusavy": {
+        "category": [
+            "PDRST",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "adult",
+            "men",
+            "good",
+            "funny"
+        ],
+        "quality": "hd"
+    },
+    "p_rst_goblin_child": {
+        "category": [
+            "PDRST",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "child",
+            "good",
+            "high",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "p_rst_goblin_ded": {
+        "category": [
+            "PDRST",
+            "Новые"
+        ],
+        "tags": [
+            "simple",
+            "funny",
+            "slow",
+            "good",
+            "old",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "p_rst_krestny": {
+        "category": [
+            "PDRST",
+            "Новые"
+        ],
+        "tags": [
+            "normal",
+            "simple",
+            "slow",
+            "old",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "p_rst_manerny": {
+        "category": [
+            "PDRST",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "young",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "p_rst_muzhik": {
+        "category": [
+            "PDRST",
+            "Новые"
+        ],
+        "tags": [
+            "simple",
+            "funny",
+            "adult",
+            "good",
+            "fast",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "p_rst_muzhik2": {
+        "category": [
+            "PDRST",
+            "Новые"
+        ],
+        "tags": [
+            "funny",
+            "low",
+            "slow",
+            "good",
+            "old",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "p_rst_nyashnaya": {
+        "category": [
+            "PDRST",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "women",
+            "young",
+            "high"
+        ],
+        "quality": "hd"
+    },
+    "p_rst_pingvin": {
+        "category": [
+            "PDRST",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "simple",
+            "old",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "p_rst_stich": {
+        "category": [
+            "PDRST",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "funny",
+            "young",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "p_rst_yasher": {
+        "category": [
+            "PDRST",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "simple",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "sasha_gray": {
+        "category": [
+            "Other",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "women",
+            "adult",
+            "good"
+        ],
+        "quality": "hd"
+    },
+    "sc_overmind": {
+        "category": [
+            "StarCraft",
+            "Новые"
+        ],
+        "tags": [
+            "verylow",
+            "slow",
+            "bad",
+            "old",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "smeshina_karkar": {
+        "category": [
+            "Smeshariki",
+            "Новые"
+        ],
+        "tags": [
+            "simple",
+            "adult",
+            "slow",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "smeshina_krosh": {
+        "category": [
+            "Smeshariki",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "funny",
+            "young",
+            "high",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "smeshina_losyash": {
+        "category": [
+            "Smeshariki",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "adult",
+            "men",
+            "funny",
+            "super"
+        ],
+        "quality": "hd"
+    },
+    "smeshina_nyusha": {
+        "category": [
+            "Smeshariki",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "women",
+            "young",
+            "high"
+        ],
+        "quality": "hd"
+    },
+    "smeshina_pin": {
+        "category": [
+            "Smeshariki",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "adult",
+            "men",
+            "good",
+            "funny"
+        ],
+        "quality": "hd"
+    },
+    "smeshina_sova": {
+        "category": [
+            "Smeshariki",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "women",
+            "adult",
+            "good"
+        ],
+        "quality": "hd"
+    },
+    "smeshina_yozh": {
+        "category": [
+            "Smeshariki",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "funny",
+            "young",
+            "men",
+            "super"
+        ],
+        "quality": "hd"
+    },
+    "sonic_1": {
+        "category": [
+            "Sonic the Hedgehog",
+            "Новые"
+        ],
+        "tags": [
+            "normal",
+            "fast",
+            "young",
+            "high",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "sonic_3": {
+        "category": [
+            "Sonic the Hedgehog",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "young",
+            "high",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "sophroniscus": {
+        "category": [
+            "Other",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "adult",
+            "low",
+            "bad",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "sweetie_fox": {
+        "category": [
+            "Other",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "women",
+            "adult",
+            "bad"
+        ],
+        "quality": "hd"
+    },
+    "tarkov_bear2": {
+        "category": [
+            "Escape from Tarkov",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "simple",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "tarkov_bear3": {
+        "category": [
+            "Escape from Tarkov",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "simple",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "tarkov_gluhar": {
+        "category": [
+            "Escape from Tarkov",
+            "Новые"
+        ],
+        "tags": [
+            "normal",
+            "simple",
+            "adult",
+            "slow",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "tarkov_kaban": {
+        "category": [
+            "Escape from Tarkov",
+            "Новые"
+        ],
+        "tags": [
+            "adult",
+            "low",
+            "slow",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "tarkov_killa": {
+        "category": [
+            "Escape from Tarkov",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "adult",
+            "men",
+            "funny",
+            "super"
+        ],
+        "quality": "hd"
+    },
+    "tarkov_kollontay": {
+        "category": [
+            "Escape from Tarkov",
+            "Новые"
+        ],
+        "tags": [
+            "normal",
+            "adult",
+            "low",
+            "slow",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "tarkov_partizan": {
+        "category": [
+            "Escape from Tarkov",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "adult",
+            "low",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "tarkov_reshala": {
+        "category": [
+            "Escape from Tarkov",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "adult",
+            "good",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "tarkov_sanitar": {
+        "category": [
+            "Escape from Tarkov",
+            "Новые"
+        ],
+        "tags": [
+            "normal",
+            "simple",
+            "adult",
+            "fast",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "tarkov_sturman": {
+        "category": [
+            "Escape from Tarkov",
+            "Новые"
+        ],
+        "tags": [
+            "adult",
+            "low",
+            "slow",
+            "men",
+            "super"
+        ],
+        "quality": "hd"
+    },
+    "tarkov_tagilla": {
+        "category": [
+            "Escape from Tarkov",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "normal",
+            "simple",
+            "adult",
+            "men"
+        ],
+        "quality": "hd"
+    },
+    "tyler_durden": {
+        "category": [
+            "Fight Club",
+            "Новые"
+        ],
+        "tags": [
+            "medium",
+            "simple",
+            "adult",
+            "good",
             "men"
         ],
         "quality": "hd"

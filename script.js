@@ -64,7 +64,8 @@ document.addEventListener("DOMContentLoaded", () => {
         "Fallout": "Фоллаут",
         "Harrypotter": "Гарри Поттер",
         "Transformers, robots": "Трансформеры",
-        'Metro 2033': 'Метро 2033'
+        'Metro 2033': 'Метро 2033',
+        'Новые': 'Новые'
     };
 
     const itemsPerPage = 30;
@@ -425,25 +426,25 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    function showNewVoicesModal() {
-        const modal = document.getElementById("newVoicesModal");
-        const closeBtn = document.getElementById("closeNewVoices");
+    // function showNewVoicesModal() {
+    //     const modal = document.getElementById("newVoicesModal");
+    //     const closeBtn = document.getElementById("closeNewVoices");
         
-        // Show window
-        modal.style.display = "block";
+    //     // Show window
+    //     modal.style.display = "block";
 
-        // Close window by click 'x'
-        closeBtn.onclick = function() {
-            modal.style.display = "none";
-        }
+    //     // Close window by click 'x'
+    //     closeBtn.onclick = function() {
+    //         modal.style.display = "none";
+    //     }
 
-        // Close window by click outside
-        window.onclick = function(event) {
-            if (event.target == modal) {
-                modal.style.display = "none";
-            }
-        }
-    }
+    //     // Close window by click outside
+    //     window.onclick = function(event) {
+    //         if (event.target == modal) {
+    //             modal.style.display = "none";
+    //         }
+    //     }
+    // }
 
     var modal = document.getElementById("allVoicesModal");
 
@@ -471,7 +472,7 @@ document.addEventListener("DOMContentLoaded", () => {
     audioListElement.parentNode.insertBefore(bottomPaginationContainer, audioListElement.nextSibling);
 
     // Show modal window
-    showNewVoicesModal();
+    //showNewVoicesModal();
 
     initialize();
 });
