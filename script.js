@@ -130,13 +130,21 @@ document.addEventListener("DOMContentLoaded", () => {
             const voicesWithTagsResponse = await fetch("voices_with_tags.json");
             voicesWithTagsData = await voicesWithTagsResponse.json();
 
+            const tempoTagsResponse = await fetch("tempo_tags.json");
+            const tempoTags = await tempoTagsResponse.json();
+
             const audioFilesResponse = await fetch("audio_list.json");
             const audioFiles = await audioFilesResponse.json();
 
             const tagsMap = new Map();
             for (const voice in voicesWithTagsData) {
+                const tags = [...(voicesWithTagsData[voice].tags || [])];
+                const tempoTag = tempoTags[voice];
+                if (tempoTag && !tags.some(tag => ["slow", "medium", "fast"].includes(tag))) {
+                    tags.push(tempoTag);
+                }
                 tagsMap.set(voice + ".aac", {
-                    tags: voicesWithTagsData[voice].tags || [],
+                    tags: tags,
                     category: voicesWithTagsData[voice].category || [],
                     quality: voicesWithTagsData[voice].quality || "normal"
                 });
@@ -169,6 +177,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function createAudioItem(fileData) {
         const fileName = fileData.filename.replace(".aac", "");
+        // The site's filenames use double underscores in place of path
+        // separators, while the TTS server registers these HD voices with
+        // slashes in their command name.
+        const commandVoiceName = fileName.replace(/__/g, "/");
 
         const div = document.createElement("div");
         div.classList.add("audio-item");
@@ -179,7 +191,7 @@ document.addEventListener("DOMContentLoaded", () => {
         label.classList.add("clickable");
         label.title = "Click to copy";
         label.addEventListener("click", () => {
-            const textToCopy = `!tts ${fileName}`;
+            const textToCopy = `!tts ${commandVoiceName}`;
             navigator.clipboard.writeText(textToCopy)
                 .then(() => console.log(`Скопировано: ${textToCopy}`))
                 .catch(err => console.error("Ошибка копирования", err));
